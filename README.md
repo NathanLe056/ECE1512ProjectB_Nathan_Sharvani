@@ -27,10 +27,10 @@ After downloading, organize the feature files like this:
 
 ## Installation
 
-```python -m venv .venv
-source .venv/bin/activate 
+# (Optional) create a virtual environment
+python -m venv venv  
+source venv/bin/activate  # or use conda, etc.  
 pip install -r requirements.txt
-```
 
 ## Usage
 Quick start
